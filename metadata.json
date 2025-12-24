@@ -1,0 +1,7 @@
+{
+  "name": "VibeCheck",
+  "description": "A lowkey app to find your tribe in public. Drop your keywords, match with the fam nearby, and get AI-powered icebreakers that don't suck.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
